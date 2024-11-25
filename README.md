@@ -1,6 +1,10 @@
 # Population-Analysis
 Power Bi Dashboard
 
+##Dahsboard Preview
+<br>
+<img src="Dahsboard img.png">
+
 ## Overview
 The Population Analysis Dashboard is an interactive data visualization tool created using Power BI. This dashboard provides insights into population trends, demographics, and other relevant statistics, enabling users to make data-driven decisions.
 
