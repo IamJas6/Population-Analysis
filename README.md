@@ -1,7 +1,7 @@
 # Population-Analysis
 Power Bi Dashboard
 
-##Dahsboard Preview
+## Dahsboard Preview
 <br>
 <img src="Dahsboard img.png">
 
