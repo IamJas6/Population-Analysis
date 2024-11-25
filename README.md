@@ -25,7 +25,7 @@ To run this dashboard, you will need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/population-analysis-dashboard.git
+   git clone https://github.com/IamJas6/Population-Analysis.git
 
 Open the .pbix file in Power BI Desktop.
 Usage
